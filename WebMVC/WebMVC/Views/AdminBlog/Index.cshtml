@@ -1,0 +1,104 @@
+﻿@using X.PagedList;
+@using X.PagedList.Mvc.Core;
+
+@using X.PagedList.Web.Common;
+@model IPagedList<AllBlogViewModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+<div class="col-lg-8 left-blog-info-w3layouts-agileits text-left">
+	<div class="row mb-4">
+		@foreach (var item in Model)
+		{
+
+		
+
+			<div class="col-lg-4 card">
+				<a href="single.html">
+					<img src="@item.ImageURL" style="height:200px;" class="card-img-top img-fluid" alt="">
+				</a>
+				<div class="card-body">
+					<ul class="blog-icons my-4">
+						<li>
+							<a href="#">
+								<i class="far fa-calendar-alt"></i> @(((DateTime)item.CratedDate).ToString("dd.MM.yyyy"))
+							</a>
+						</li>
+
+
+					</ul>
+					<h5 class="card-title">
+						<a href="single.html">@item.Title</a>
+					</h5>
+					<p class="card-text mb-3">>@item.Content.Substring(0,item.Content.Length<100 ? item.Content.Length: item.Content.Substring(0,100).LastIndexOf(" "))... </p>
+					<div class="row">
+						<div class="col-6">
+							<a href="/adminblog/edit/@item.BlogId"  class="btn btn-success read-m">Düzenle</a>
+						</div>
+						<div class="col-6">
+							<a href="/adminblog/delete/@item.BlogId" class="btn btn-danger read-m">sil</a>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		}
+
+
+	</div>
+	@*paggination*@
+
+	<div class="pagination">
+		<div class="container">
+			<div class="row my-2">
+				<div class="col">
+					Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)
+					of @Model.PageCount
+				</div>
+			</div>
+			<div class="row">
+				<div class="col">
+					@if (ViewBag.id == null)
+					{
+						@Html.PagedListPager(Model, page => Url.Action("Index", new { page }),
+					new PagedListRenderOptions
+					{
+					LiElementClasses = new string[] { "page-item" },
+					PageClasses = new string[] { "page-link" }
+					})
+						;
+					}
+					else
+					{
+
+						@Html.PagedListPager(Model, page => Url.Action("BlogByCategory", new { id=ViewBag.id,page=page }),
+					new PagedListRenderOptions
+					{
+					LiElementClasses = new string[] { "page-item" },
+					PageClasses = new string[] { "page-link" }
+					})
+						;
+					}
+				</div>
+
+			</div>
+		</div>
+
+
+	</div>
+</div>
+
+<aside class="col-lg-4 agileits-w3ls-right-blog-con text-left">
+	<div class="right-blog-info text-left">
+
+		<div>
+			<a class="btn btn-success " href="/adminblog/blogadd"> blog ekle</a>
+		</div>
+
+
+	</div>
+</aside>

@@ -1,0 +1,22 @@
+﻿@model IEnumerable<CategoryViewModel>
+
+
+<div class="tech-btm">
+
+    <h4>Categories</h4>
+
+    <ul class="list-group single">
+        <li class="list-group-item d-flex justify-content-between align-items-center">
+            <a class="text-capitalize text-decoration-none" href="/blog/">Tüm kategoriler</a>
+            <span class="badge badge-primary badge-pill">@ViewBag.count</span>
+        </li>
+        @foreach (var item in Model)
+        {
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <a  class="text-capitalize text-decoration-none" href="/blog/blogByCategory/@item.CategoryId">@item.CategoryName</a>
+                <span class="badge badge-primary badge-pill">@item.BlogCount</span>
+            </li>
+
+        }
+    </ul>
+</div>

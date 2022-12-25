@@ -1,0 +1,29 @@
+﻿@model IEnumerable<AllBlogViewModel>
+
+<div class="tech-btm">
+    <h4>Recent Posts</h4>
+    @foreach (var item in Model)
+    {
+        <div class="blog-grids row mb-3 text-left">
+            <div class="col-md-5 blog-grid-left">
+                <a href="/blogdetail/index/@item.BlogId">
+                    <img src="@item.ImageURL" class="card-img-top img-fluid" alt="">
+                </a>
+            </div>
+            <div class="col-md-7 blog-grid-right">
+
+                <h5>
+                    <a href="/blogdetail/index/@item.BlogId">@item.Title </a>
+                </h5>
+                <div class="sub-meta">
+                    <span>
+                        <i class="far fa-clock"></i> @(((DateTime)item.CratedDate).ToString("dd.MM.yyyy"))
+                    </span>
+                </div>
+            </div>
+
+        </div>
+    }
+
+
+</div>

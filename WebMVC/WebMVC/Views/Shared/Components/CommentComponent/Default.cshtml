@@ -1,0 +1,32 @@
+﻿@model  IEnumerable<CommentComponentViewModel>
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@if (Model.Count() == 0)
+{
+	<div class="media">
+		<img src="~/web/img/1.jpg" alt="" class="img-fluid">
+		<div class="media-body">
+			<h5 class="mt-0">Admin</h5>
+			<p>
+				İlk yorum yapan siz olun
+			</p>
+
+
+		</div>
+	</div>
+}
+@foreach(var data in Model){
+	<div class="media">
+		<img src="@data.ImageURL" alt="" class="img-fluid" style="max-height:55px; max-width:60px">
+		<div class="media-body">
+			<h5 class="mt-0">@data.FirstName @data.LastName</h5>
+			<p>
+				@data.Content
+			</p>
+
+
+		</div>
+	</div>
+}

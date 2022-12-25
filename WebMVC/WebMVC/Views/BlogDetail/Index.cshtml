@@ -1,0 +1,59 @@
+﻿@model BlogDetailModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_BlogLayout.cshtml";
+}
+
+
+<div class="col-lg-8 left-blog-info-w3layouts-agileits text-left">
+	<div class="blog-grid-top">
+		<div class="b-grid-top">
+			<div class="blog_info_left_grid">
+				<a href="single.html">
+					<img src="@Model.ImageURL" class="img-fluid" alt="" >
+				</a>
+			</div>
+			<div class="blog-info-middle">
+				<ul>
+					<li>
+						<a href="#">
+							<i class="far fa-calendar-alt"></i>@(((DateTime)Model.CreatedDate).ToString("dd.mm.yyyy"))
+						</a>
+					</li>
+				
+
+				</ul>
+			</div>
+		</div>
+
+		<h3>
+			<a href="#">@Model.Title</a>
+		</h3>
+		<p>
+			@Model.Content
+		</p>
+		<a href="/blog/index" class="btn btn-primary read-m">Bloglar</a>
+	</div>
+
+	<div class="comment-top">
+		<h4>Comments</h4>
+		@await Component.InvokeAsync("CommentComponent",new{id=Model.BlogId.ToString()})
+
+	</div>
+
+
+	<div class="comment-top">
+		<h4>Leave a Comment</h4>
+		<div class="comment-bottom">
+			<p>@ViewBag.message</p>
+			<form asp-action="AddComment" asp-controller="BlogDetail" method="post">
+				
+				<input type="hidden" name="BlogId" value="@Model.BlogId" />
+				<textarea class="form-control" name="Content" placeholder="Message..." required=""></textarea>
+				<button type="submit" class="btn btn-primary submit">Submit</button>
+			</form>
+		</div>
+	</div>
+	
+
+</div>

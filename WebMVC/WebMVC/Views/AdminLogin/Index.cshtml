@@ -1,0 +1,41 @@
+﻿@model LoginUserViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLoginLayout.cshtml";
+}
+
+<div class="pages_agile_info_w3l">
+	<!-- /login -->
+	<div class="over_lay_agile_pages_w3ls">
+		<div class="registration">
+
+			<div class="signin-form profile">
+				<h2>Admin Login</h2>
+				<div class="login-form">
+					<form  asp-route="admin"  method="post">
+						<input type="text" asp-for="UserName" placeholder="User name" required="">
+						<input type="password" asp-for="Password"  placeholder="Password" required="">
+						<div class="tp">
+							<input type="submit" value="SIGN IN">
+						</div>
+					</form>
+				</div>
+				<div class="login-social-grids">
+					<ul>
+						<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+						<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="#"><i class="fa fa-rss"></i></a></li>
+					</ul>
+				</div>
+		
+
+				
+			</div>
+		</div>
+		
+		<div class="copyrights_agile">
+			<p>© @DateTime.UtcNow.Year  All Rights Reserved | Design by  <a href="#" target="_blank">Yasin & Hakan</a> </p>
+		</div>
+	
+	</div>
+</div>

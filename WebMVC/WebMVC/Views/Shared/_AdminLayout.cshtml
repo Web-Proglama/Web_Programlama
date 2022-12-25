@@ -1,0 +1,228 @@
+﻿
+@{
+    Layout = null;
+}
+
+
+
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+	<title>Admin paneli</title>
+	<!-- custom-theme -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="blog hakan yasin ders blogu admin paneli" />
+	<script type="application/x-javascript">
+		addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+			   function hideURLbar(){ window.scrollTo(0,1); } </script>
+	<!-- //custom-theme -->
+	<link href="~/Admin/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="~/Admin/css/component.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="~/Admin/css/export.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="~/Admin/css/flipclock.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="~/Admin/css/circles.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="~/Admin/css/style_grid.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="~/Admin/css/style.css" rel="stylesheet" type="text/css" media="all" />
+
+	<link href="~/web/css/bootstrap.css" rel='stylesheet' type='text/css' />
+	<link href="~/web/css/single.css" rel='stylesheet' type='text/css' />
+	<link href="~/web/css/style.css" rel='stylesheet' type='text/css' />
+	<link href="~/web/css/fontawesome-all.css" rel="stylesheet">
+	<link href="//fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800"
+		  rel="stylesheet">
+
+	<!-- font-awesome-icons -->
+	<link href="~/Admin/css/font-awesome.css" rel="stylesheet">
+	<!-- //font-awesome-icons -->
+	<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800" rel="stylesheet">
+</head>
+<body>
+	<!-- banner -->
+	<div class="wthree_agile_admin_info">
+		<!-- /w3_agileits_top_nav-->
+		<!-- /nav-->
+		<div class="w3_agileits_top_nav">
+			<ul id="gn-menu" class="gn-menu-main">
+				<!-- /nav_agile_w3l -->
+				<li class="gn-trigger">
+					<a class="gn-icon gn-icon-menu"><i class="fa fa-bars" aria-hidden="true"></i><span>Menu</span></a>
+					<nav class="gn-menu-wrapper">
+						<div class="gn-scroller scrollbar1">
+							<ul class="gn-menu agile_menu_drop">
+								
+
+								<li>
+									<a href="#"> <i class="fa fa-file-text-o" aria-hidden="true"></i>Blogs <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+									<ul class="gn-submenu">
+										<li class="mini_list_agile"><a href="/adminblog"><i class="fa fa-caret-right" aria-hidden="true"></i> AllBlogs</a></li>
+										<li class="mini_list_w3"><a href="/adminblog/blogAdd"><i class="fa fa-caret-right" aria-hidden="true"></i> AddBlog</a></li>
+									</ul>
+								</li>
+								<li>
+									<a href="#"> <i class="fa fa-table" aria-hidden="true"></i> Tables <i class="fa fa-angle-down" aria-hidden="true"></i> </a>
+									<ul class="gn-submenu">
+										<li class="mini_list_agile"><a href="input.html"><i class="fa fa-caret-right" aria-hidden="true"></i> Inputs</a></li>
+										<li class="mini_list_w3"><a href="validation.html"><i class="fa fa-caret-right" aria-hidden="true"></i> Validation</a></li>
+									</ul>
+								</li>
+
+
+							</ul>
+						</div><!-- /gn-scroller -->
+					</nav>
+				</li>
+				<!-- //nav_agile_w3l -->
+				<li class="second logo"><h1><a href="/adminblog/"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Admin Paneli </a></h1></li>
+				<li class="second admin-pic">
+					<ul class="top_dp_agile">
+						<li class="dropdown profile_details_drop">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+								<div class="profile_img">
+									<span class="prfil-img"><img src="~/Admin/images/admin.jpg" alt=""> </span>
+								</div>
+							</a>
+							<ul class="dropdown-menu drp-mnu">
+							
+								<li> <a href="/adminlogin/logout"><i class="fa fa-sign-out"></i> Logout</a> </li>
+							</ul>
+						</li>
+
+					</ul>
+				</li>
+
+				<li class="second full-screen">
+					<section class="full-top">
+						<button id="toggle"><i class="fa fa-arrows-alt" aria-hidden="true"></i></button>
+					</section>
+				</li>
+
+			</ul>
+			<!-- //nav -->
+
+		</div>
+		<div class="clearfix"></div>
+		<!-- //w3_agileits_top_nav-->
+		<!-- /inner_content-->
+		<div class="main-content-w3layouts-agileits">
+			<!-- /inner_content_w3_agile_info-->
+			<div class="container">
+				<div class="row inner-sec">
+                    @RenderBody()
+				</div>
+				
+			</div>
+			<!-- //inner_content_w3_agile_info-->
+		</div>
+		<!-- //inner_content-->
+	</div>
+
+
+	<script type="text/javascript" src="~/Admin/js/jquery-2.1.4.min.js"></script>
+
+	<!-- /amcharts -->
+	<script src="~/Admin/js/amcharts.js"></script>
+	<script src="~/Admin/js/serial.js"></script>
+	<script src="~/Admin/js/export.js"></script>
+	<script src="~/Admin/js/light.js"></script>
+	<!-- Chart code -->
+	<script>
+
+	</script>
+	<!-- Chart code -->
+	<!-- //amcharts -->
+
+	<script src="~/Admin/js/modernizr.custom.js"></script>
+
+	<script src="~/Admin/js/classie.js"></script>
+	<script src="~/Admin/js/gnmenu.js"></script>
+	<script>
+		new gnMenu(document.getElementById('gn-menu'));
+	</script>
+	<!-- script-for-menu -->
+	<!-- /circle-->
+	<script type="text/javascript" src="~/Admin/js/circles.js"></script>
+	<script>
+		var colors = [
+			['#ffffff', '#fd9426'], ['#ffffff', '#fc3158'], ['#ffffff', '#53d769'], ['#ffffff', '#147efb']
+		];
+		for (var i = 1; i <= 7; i++) {
+			var child = document.getElementById('circles-' + i),
+				percentage = 30 + (i * 10);
+
+			Circles.create({
+				id: child.id,
+				percentage: percentage,
+				radius: 80,
+				width: 10,
+				number: percentage / 1,
+				text: '%',
+				colors: colors[i - 1]
+			});
+		}
+
+	</script>
+	<!-- //circle -->
+	<!--skycons-icons-->
+	<script src="~/Admin/js/skycons.js"></script>
+	<script>
+		var icons = new Skycons({ "color": "#fcb216" }),
+			list = [
+				"partly-cloudy-day"
+			],
+			i;
+
+		for (i = list.length; i--;)
+			icons.set(list[i], list[i]);
+		icons.play();
+	</script>
+	<script>
+		var icons = new Skycons({ "color": "#fff" }),
+			list = [
+				"clear-night", "partly-cloudy-night", "cloudy", "clear-day", "sleet", "snow", "wind", "fog"
+			],
+			i;
+
+		for (i = list.length; i--;)
+			icons.set(list[i], list[i]);
+		icons.play();
+	</script>
+	<!--//skycons-icons-->
+	<!-- //js -->
+	<script src="~/Admin/js/screenfull.js"></script>
+	<script>
+		$(function () {
+			$('#supported').text('Supported/allowed: ' + !!screenfull.enabled);
+
+			if (!screenfull.enabled) {
+				return false;
+			}
+
+
+
+			$('#toggle').click(function () {
+				screenfull.toggle($('#container')[0]);
+			});
+		});
+	</script>
+
+
+	<script type="text/javascript">
+		var clock;
+
+		$(document).ready(function () {
+
+			clock = $('.clock').FlipClock({
+				clockFace: 'HourlyCounter'
+			});
+		});
+	</script>
+	<script src="~/Admin/js/bars.js"></script>
+	<script src="~/Admin/js/jquery.nicescroll.js"></script>
+	<script src="~/Admin/js/scripts.js"></script>
+
+	<script type="text/javascript" src="~/Admin/js/bootstrap-3.1.1.min.js"></script>
+
+
+</body>
+</html>

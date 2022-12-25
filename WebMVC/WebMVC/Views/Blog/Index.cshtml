@@ -1,0 +1,91 @@
+﻿@using X.PagedList;
+@using X.PagedList.Mvc.Core;
+
+@using X.PagedList.Web.Common;
+@model IPagedList<AllBlogViewModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_BlogLayout.cshtml";
+}
+
+
+<div class="col-lg-8 left-blog-info-w3layouts-agileits text-left">
+    <div class="row mb-4">
+        @foreach (var item in Model)
+        {
+
+            <div class="col-md-6 card my-4">
+                <a href="/blogdetail/index/@item.BlogId">
+                    <img src="@item.ImageURL" style="height:400px;" class="card-img-top img-fluid" alt="">
+                </a>
+                <div class="card-body">
+                    <ul class="blog-icons my-4">
+                        <li>
+                            <a href="#">
+                                <i class="far fa-calendar-alt"></i>@(((DateTime)item.CratedDate).ToString("dd.MM.yyyy"))
+                            </a>
+                        </li>
+                        @*  <li class="mx-2">
+                    <a href="#">
+                    <i class="far fa-comment"></i> 21
+                    </a>
+                    </li>
+                    <li>
+                    <a href="#">
+                    <i class="fas fa-eye"></i> 2000
+                    </a>
+                    </li>*@
+
+                    </ul>
+                    <h5 class="card-title ">
+                        <a href="/blogdetail/index/@item.BlogId">@item.Title</a>
+                    </h5>
+                    <p class="card-text mb-3">@item.Content.Substring(0,item.Content.Length<100 ? item.Content.Length: item.Content.Substring(0,100).LastIndexOf(" "))... </p>
+                    <a href="/blogdetail/index/@item.BlogId" key=1 class="btn btn-primary read-m">Read More</a>
+                </div>
+            </div>
+        }
+
+
+    </div>
+    @*paggination*@
+
+    <div class="pagination">
+        <div class="container">
+            <div class="row my-2">
+                <div class="col">
+                    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)
+                    of @Model.PageCount
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    @if (ViewBag.id == null)
+                    {
+                        @Html.PagedListPager(Model, page => Url.Action("Index", new { page }),
+                    new PagedListRenderOptions
+                    {
+                    LiElementClasses = new string[] { "page-item" },
+                    PageClasses = new string[] { "page-link" }
+                    })
+                        ;
+                    }
+                    else
+                    {
+
+                        @Html.PagedListPager(Model, page => Url.Action("BlogByCategory", new { id=ViewBag.id,page=page }),
+                    new PagedListRenderOptions
+                    {
+                    LiElementClasses = new string[] { "page-item" },
+                    PageClasses = new string[] { "page-link" }
+                    })
+                        ;
+                    }
+                </div>
+
+            </div>
+        </div>
+
+
+    </div>
+</div>

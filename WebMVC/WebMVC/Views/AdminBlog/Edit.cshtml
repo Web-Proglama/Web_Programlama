@@ -1,0 +1,51 @@
+﻿@model BlogByIdViewModel
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<form asp-action="edit" asp-controller="adminblog" method="post">
+	
+	<input type="hidden" asp-for="ImageURL" />
+	<input type="hidden" asp-for="Status" />
+	<input type="hidden" asp-for="FullName" />
+	<input type="hidden" asp-for="BlogId" />
+	<input type="hidden" asp-for="CreatedDate" />
+
+
+<div class="col-lg-8 left-blog-info-w3layouts-agileits text-left">
+	<div class="blog-grid-top">
+		<div class="b-grid-top">
+			<div class="blog_info_left_grid">
+				<a href="#">
+					<img src="@Model.ImageURL" class="img-fluid" alt="">
+				</a>
+			</div>
+			<div class="blog-info-middle">
+				<ul>
+					<li>
+						<a href="#">
+							<i class="far fa-calendar-alt"></i>@(((DateTime)Model.CreatedDate).ToString("dd.mm.yyyy"))
+						</a>
+					</li>
+
+
+				</ul>
+			</div>
+		</div>
+
+		<h3>
+				<input type="text" class="form-control"  asp-for="Title" />
+		</h3>
+			<textarea asp-for="Content" rows="6" cols="50"></textarea>
+		<br />
+			<span class=" text-danger">@ViewBag.hata</span>
+		<a href="/adminblog" class="btn btn-primary read-m">Geri Dön</a>
+			<input type="submit" class="btn btn-outline-danger read-m" value="Düzenle">
+	</div>
+
+
+
+</div>
+</form>

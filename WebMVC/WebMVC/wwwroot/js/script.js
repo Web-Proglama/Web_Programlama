@@ -5,13 +5,13 @@ $(document).ready(function () {
 
         'tr': {
 
-            '0': 'Ad',
-            '1': 'Soyad',
-            '2': 'Kullanıcı adı',
-            '3': 'Telefon',
-            '4': 'Şifre',
-            '5': 'Cüzdan',
-            '6': 'Oluştur',
+            '0': 'Blog Ekleme Sayfası',
+            '1': 'Ekle',
+            '2': 'Geri Dön',
+            '3': 'Düzenle',
+            '4': 'Düzenle',
+            '5': 'Sil',
+            '6': 'Blog Ekle',
             '7': 'Role',
             '8': 'Gir',
             '9': 'Hesap Oluştur',
@@ -36,13 +36,13 @@ $(document).ready(function () {
 
 
         'en': {
-            '0': 'Name',
-            '1': 'Surname',
-            '2': 'Username',
-            '3': 'Phone',
-            '4': 'Password',
-            '5': 'Wallet',
-            '6': 'Create',
+            '0': 'Blog Add Page',
+            '1': 'Add',
+            '2': 'Back',
+            '3': 'Edit',
+            '4': 'Edit',
+            '5': 'Delete',
+            '6': 'Add Blog',
             '7': 'Role',
             '8': 'Login',
             '9': 'Create Account',

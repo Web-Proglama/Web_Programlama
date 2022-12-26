@@ -37,10 +37,10 @@
 					<p class="card-text mb-3">>@item.Content.Substring(0,item.Content.Length<100 ? item.Content.Length: item.Content.Substring(0,100).LastIndexOf(" "))... </p>
 					<div class="row">
 						<div class="col-6">
-							<a href="/adminblog/edit/@item.BlogId"  class="btn btn-success read-m">Düzenle</a>
+							<a href="/adminblog/edit/@item.BlogId"  key = "4" class="btn btn-success read-m">Düzenle</a>
 						</div>
 						<div class="col-6">
-							<a href="/adminblog/delete/@item.BlogId" class="btn btn-danger read-m">sil</a>
+							<a href="/adminblog/delete/@item.BlogId" key = "5" class="btn btn-danger read-m">sil</a>
 						</div>
 					</div>
 					
@@ -96,7 +96,7 @@
 	<div class="right-blog-info text-left">
 
 		<div>
-			<a class="btn btn-success " href="/adminblog/blogadd"> blog ekle</a>
+			<a class="btn btn-success " key = "6" href="/adminblog/blogadd"> blog ekle</a>
 		</div>
 
 

@@ -11,26 +11,26 @@
 			<form asp-action="index" asp-controller="Register" method="post" enctype="multipart/form-data">
 				<div class="form-row">
 					<div class="col-md-6 mb-3">
-						<label for="validationCustom01">First name</label>
+						<label key = "12" for="validationCustom01">First name</label>
 						
 						<input type="text" asp-for="FirstName" class="form-control" id="validationDefault01" placeholder="" required="">
 						<span asp-validation-for="FirstName"></span>
 						<span class="text-muted text-danger">@ViewBag.userName</span>
 					</div>
 					<div class="col-md-6 mb-3">
-						<label for="validationCustom02">Last name</label>
+						<label key="13" for="validationCustom02">Last name</label>
 						<input type="text" asp-for="LastName" class="form-control" id="validationDefault02" placeholder="" required="">
 						<span asp-validation-for="LastName"></span>
 					</div>
 				</div>
 				<div class="form-row">
 					<div class="col-md-6 mb-3">
-						<label for="userName">User name</label>
+						<label key = "9" for="userName">User name</label>
 						<input type="text" asp-for="UserName" class="form-control" id="userName" placeholder="" required="">
 						<span asp-validation-for="UserName"></span>
 					</div>
 					<div class="form-group col-md-6">
-						<label for="exampleInputPassword1 mb-2">Password</label>
+						<label key="14" for="exampleInputPassword1 mb-2">Password</label>
 						<input type="password" asp-for="Password" class="form-control" id="password1" placeholder="" required="">
 						<span asp-validation-for="Password"></span>
 					</div>
@@ -39,7 +39,7 @@
 				</div>
 				<div class="form-row">
 					<div class="form-group col-md-12">
-						<label for="photo mb-2">Chose profile photo</label>
+						<label key = "15" for="photo mb-2">Chose profile photo</label>
 
 						<input type="file" asp-for="ImageURL" class="form-control" id="photo" placeholder="" required="">
 						<span asp-validation-for="ImageURL"></span>

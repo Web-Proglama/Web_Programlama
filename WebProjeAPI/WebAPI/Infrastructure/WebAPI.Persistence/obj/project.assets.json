@@ -3838,11 +3838,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\owl\\Documents\\WebProje\\WebProjeAPI\\WebAPI\\Infrastructure\\WebAPI.Persistence\\WebAPI.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebProjeAPI\\WebAPI\\Infrastructure\\WebAPI.Persistence\\WebAPI.Persistence.csproj",
       "projectName": "WebAPI.Persistence",
-      "projectPath": "C:\\Users\\owl\\Documents\\WebProje\\WebProjeAPI\\WebAPI\\Infrastructure\\WebAPI.Persistence\\WebAPI.Persistence.csproj",
+      "projectPath": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebProjeAPI\\WebAPI\\Infrastructure\\WebAPI.Persistence\\WebAPI.Persistence.csproj",
       "packagesPath": "C:\\Users\\owl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\owl\\Documents\\WebProje\\WebProjeAPI\\WebAPI\\Infrastructure\\WebAPI.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebProjeAPI\\WebAPI\\Infrastructure\\WebAPI.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\owl\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3857,8 +3857,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\owl\\Documents\\WebProje\\WebProjeAPI\\WebAPI\\Core\\WebAPI.Application\\WebAPI.Application.csproj": {
-              "projectPath": "C:\\Users\\owl\\Documents\\WebProje\\WebProjeAPI\\WebAPI\\Core\\WebAPI.Application\\WebAPI.Application.csproj"
+            "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebProjeAPI\\WebAPI\\Core\\WebAPI.Application\\WebAPI.Application.csproj": {
+              "projectPath": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebProjeAPI\\WebAPI\\Core\\WebAPI.Application\\WebAPI.Application.csproj"
             }
           }
         }

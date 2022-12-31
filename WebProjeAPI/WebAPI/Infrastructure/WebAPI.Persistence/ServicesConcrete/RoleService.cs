@@ -7,12 +7,10 @@ using WebAPI.Application.Services;
 
 namespace WebAPI.Persistence.ServicesConcrete
 {
-private IRoleService _role;
+
     public class RoleService:IRoleService
     {
-        public RoleService(IRoleService role){
-            _role=role;
-        }
+    
     }
     
 }

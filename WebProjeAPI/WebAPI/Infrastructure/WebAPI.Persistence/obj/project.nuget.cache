@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qvzXVC1F9j4j12jKRkp9fvs123hvhbEruNm6e3GqkOXjaF5Pb3KD1APtmmXqH1VZYvGyj6Zu/UHK9PFuD9Wrcw==",
+  "dgSpecHash": "UaRYuE+RkR+8LrStCKYqP/oBgdjZ3/0S5AaMc6PyvFZ9Nzn1eoFzbuc+veppbWComtYViQraupeufEl9wxTOFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\owl\\Documents\\WebProje\\WebProjeAPI\\WebAPI\\Infrastructure\\WebAPI.Persistence\\WebAPI.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebProjeAPI\\WebAPI\\Infrastructure\\WebAPI.Persistence\\WebAPI.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\owl\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\owl\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

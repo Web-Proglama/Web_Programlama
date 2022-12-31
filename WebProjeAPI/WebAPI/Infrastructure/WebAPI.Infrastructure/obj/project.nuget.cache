@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VhCi2mRO41uDXFFu27rQtVaez9fE8qxvOwRyhpxhYJxz2IFh+pwBe35j8U7ILUQZA0RyeSS9XM4/vDjhjvi8iw==",
+  "dgSpecHash": "zsEQjrfoPQet2Yi5zebzI+l1Wah2i5wdVAREMNdNUveWAB6RDh0UBNuMNeA9+xZm04IAkNjlQK4ojHxqkYR1qw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\owl\\Documents\\WebProje\\WebProjeAPI\\WebAPI\\Infrastructure\\WebAPI.Infrastructure\\WebAPI.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebProjeAPI\\WebAPI\\Infrastructure\\WebAPI.Infrastructure\\WebAPI.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\owl\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",
     "C:\\Users\\owl\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.1\\microsoft.entityframeworkcore.abstractions.7.0.1.nupkg.sha512",

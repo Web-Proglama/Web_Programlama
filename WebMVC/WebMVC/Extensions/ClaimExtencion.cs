@@ -15,5 +15,11 @@ namespace WebMVC.Extensions
 			var claim = claims.FirstOrDefault(claim => claim.Type == ClaimTypes.NameIdentifier)!.Value;
 			return claim ?? string.Empty;
 		}
-	}
+        public static string GetSpecificClaim(this ClaimsIdentity claimsIdentity, string claimType)
+        {
+            var claim = claimsIdentity.Claims.FirstOrDefault(x => x.Type == claimType);
+
+            return (claim != null) ? claim.Value : string.Empty;
+        }
+    }
 }

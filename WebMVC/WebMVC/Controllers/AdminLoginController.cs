@@ -41,6 +41,7 @@ namespace WebMVC.Controllers
 						new Claim(ClaimTypes.Name,values.UserName),
 						new Claim(ClaimTypes.Role,values.RoleName),
 						new Claim(ClaimTypes.NameIdentifier,values.UserID.ToString())
+						
 
 					};
 					var claimIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);

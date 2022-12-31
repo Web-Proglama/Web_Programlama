@@ -1,943 +1,839 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebMVC.bundle.scp.css",
-      "PackagePath": "staticwebassets\\WebMVC.bundle.scp.css"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\404.html",
-      "PackagePath": "staticwebassets\\Admin\\404.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\Yeni Metin Belgesi (2).txt",
-      "PackagePath": "staticwebassets\\Admin\\Yeni Metin Belgesi (2).txt"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\blank.html",
-      "PackagePath": "staticwebassets\\Admin\\blank.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\buttons.html",
-      "PackagePath": "staticwebassets\\Admin\\buttons.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\calendar.html",
-      "PackagePath": "staticwebassets\\Admin\\calendar.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\charts.html",
-      "PackagePath": "staticwebassets\\Admin\\charts.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\basictable.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\basictable.css",
       "PackagePath": "staticwebassets\\Admin\\css\\basictable.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\bootstrap.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\Admin\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\circles.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\circles.css",
       "PackagePath": "staticwebassets\\Admin\\css\\circles.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\component.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\component.css",
       "PackagePath": "staticwebassets\\Admin\\css\\component.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\export.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\export.css",
       "PackagePath": "staticwebassets\\Admin\\css\\export.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\flipclock.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\flipclock.css",
       "PackagePath": "staticwebassets\\Admin\\css\\flipclock.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\font-awesome.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\Admin\\css\\font-awesome.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\jQuery-plugin-progressbar1.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\jQuery-plugin-progressbar1.css",
       "PackagePath": "staticwebassets\\Admin\\css\\jQuery-plugin-progressbar1.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\monthly.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\monthly.css",
       "PackagePath": "staticwebassets\\Admin\\css\\monthly.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\style.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\style.css",
       "PackagePath": "staticwebassets\\Admin\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\style_grid.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\style_grid.css",
       "PackagePath": "staticwebassets\\Admin\\css\\style_grid.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\table-style.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\css\\table-style.css",
       "PackagePath": "staticwebassets\\Admin\\css\\table-style.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\faq.html",
-      "PackagePath": "staticwebassets\\Admin\\faq.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\Admin\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\Admin\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\Admin\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\Admin\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\Admin\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\Admin\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.eot",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.eot",
       "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.svg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.svg",
       "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.ttf",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.ttf",
       "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.woff",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.woff",
       "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.woff2",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.woff2",
       "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\grids.html",
-      "PackagePath": "staticwebassets\\Admin\\grids.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\icons.html",
-      "PackagePath": "staticwebassets\\Admin\\icons.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\Thumbs.db",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\Thumbs.db",
       "PackagePath": "staticwebassets\\Admin\\images\\Thumbs.db"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\a1.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\a1.jpg",
       "PackagePath": "staticwebassets\\Admin\\images\\a1.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\a2.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\a2.jpg",
       "PackagePath": "staticwebassets\\Admin\\images\\a2.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\a3.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\a3.jpg",
       "PackagePath": "staticwebassets\\Admin\\images\\a3.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\a4.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\a4.jpg",
       "PackagePath": "staticwebassets\\Admin\\images\\a4.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\admin.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\admin.jpg",
       "PackagePath": "staticwebassets\\Admin\\images\\admin.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\bottom.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\bottom.jpg",
       "PackagePath": "staticwebassets\\Admin\\images\\bottom.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\overlay.png",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\overlay.png",
       "PackagePath": "staticwebassets\\Admin\\images\\overlay.png"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\pic.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\pic.jpg",
       "PackagePath": "staticwebassets\\Admin\\images\\pic.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\pic1.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\pic1.jpg",
       "PackagePath": "staticwebassets\\Admin\\images\\pic1.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\profile.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\profile.jpg",
       "PackagePath": "staticwebassets\\Admin\\images\\profile.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\profile_bg.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\profile_bg.jpg",
       "PackagePath": "staticwebassets\\Admin\\images\\profile_bg.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\progress.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\images\\progress.jpg",
       "PackagePath": "staticwebassets\\Admin\\images\\progress.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\index.html",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\index.html",
       "PackagePath": "staticwebassets\\Admin\\index.html"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\input.html",
-      "PackagePath": "staticwebassets\\Admin\\input.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\Chart.min.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\Chart.min.js",
       "PackagePath": "staticwebassets\\Admin\\js\\Chart.min.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\amcharts.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\amcharts.js",
       "PackagePath": "staticwebassets\\Admin\\js\\amcharts.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\bars.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\bars.js",
       "PackagePath": "staticwebassets\\Admin\\js\\bars.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\bootstrap-3.1.1.min.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\bootstrap-3.1.1.min.js",
       "PackagePath": "staticwebassets\\Admin\\js\\bootstrap-3.1.1.min.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\circles.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\circles.js",
       "PackagePath": "staticwebassets\\Admin\\js\\circles.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\classie.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\classie.js",
       "PackagePath": "staticwebassets\\Admin\\js\\classie.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\contact_me.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\contact_me.js",
       "PackagePath": "staticwebassets\\Admin\\js\\contact_me.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\export.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\export.js",
       "PackagePath": "staticwebassets\\Admin\\js\\export.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\flipclock.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\flipclock.js",
       "PackagePath": "staticwebassets\\Admin\\js\\flipclock.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\gauge.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\gauge.js",
       "PackagePath": "staticwebassets\\Admin\\js\\gauge.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\gnmenu.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\gnmenu.js",
       "PackagePath": "staticwebassets\\Admin\\js\\gnmenu.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\jQuery-plugin-progressbar.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\jQuery-plugin-progressbar.js",
       "PackagePath": "staticwebassets\\Admin\\js\\jQuery-plugin-progressbar.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\jqBootstrapValidation.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\jqBootstrapValidation.js",
       "PackagePath": "staticwebassets\\Admin\\js\\jqBootstrapValidation.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\jquery-2.1.4.min.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\jquery-2.1.4.min.js",
       "PackagePath": "staticwebassets\\Admin\\js\\jquery-2.1.4.min.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\jquery.basictable.min.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\jquery.basictable.min.js",
       "PackagePath": "staticwebassets\\Admin\\js\\jquery.basictable.min.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\jquery.nicescroll.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\jquery.nicescroll.js",
       "PackagePath": "staticwebassets\\Admin\\js\\jquery.nicescroll.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\js",
       "PackagePath": "staticwebassets\\Admin\\js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\light.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\light.js",
       "PackagePath": "staticwebassets\\Admin\\js\\light.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\modernizr.custom.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\modernizr.custom.js",
       "PackagePath": "staticwebassets\\Admin\\js\\modernizr.custom.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\monthly.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\monthly.js",
       "PackagePath": "staticwebassets\\Admin\\js\\monthly.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\pie.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\pie.js",
       "PackagePath": "staticwebassets\\Admin\\js\\pie.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\prettymaps.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\prettymaps.js",
       "PackagePath": "staticwebassets\\Admin\\js\\prettymaps.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\radar.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\radar.js",
       "PackagePath": "staticwebassets\\Admin\\js\\radar.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\screenfull.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\screenfull.js",
       "PackagePath": "staticwebassets\\Admin\\js\\screenfull.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\scripts.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\scripts.js",
       "PackagePath": "staticwebassets\\Admin\\js\\scripts.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\serial.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\serial.js",
       "PackagePath": "staticwebassets\\Admin\\js\\serial.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\skycons.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\skycons.js",
       "PackagePath": "staticwebassets\\Admin\\js\\skycons.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\valida.2.1.6.min.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\valida.2.1.6.min.js",
       "PackagePath": "staticwebassets\\Admin\\js\\valida.2.1.6.min.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\validator.min.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\validator.min.js",
       "PackagePath": "staticwebassets\\Admin\\js\\validator.min.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\xy.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\js\\xy.js",
       "PackagePath": "staticwebassets\\Admin\\js\\xy.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\main-page.html",
-      "PackagePath": "staticwebassets\\Admin\\main-page.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\maps.html",
-      "PackagePath": "staticwebassets\\Admin\\maps.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\signin.html",
-      "PackagePath": "staticwebassets\\Admin\\signin.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\signup.html",
-      "PackagePath": "staticwebassets\\Admin\\signup.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\table.html",
-      "PackagePath": "staticwebassets\\Admin\\table.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\typo.html",
-      "PackagePath": "staticwebassets\\Admin\\typo.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\validation.html",
-      "PackagePath": "staticwebassets\\Admin\\validation.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\Admin\\w3layouts-License.txt",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\Admin\\w3layouts-License.txt",
       "PackagePath": "staticwebassets\\Admin\\w3layouts-License.txt"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\css\\c.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\css\\c.css",
       "PackagePath": "staticwebassets\\css\\c.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\js\\script.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\js\\script.js",
       "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\about.html",
-      "PackagePath": "staticwebassets\\web\\about.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\blog1.html",
-      "PackagePath": "staticwebassets\\web\\blog1.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\blog2.html",
-      "PackagePath": "staticwebassets\\web\\blog2.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\blog3.html",
-      "PackagePath": "staticwebassets\\web\\blog3.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\contact.html",
-      "PackagePath": "staticwebassets\\web\\contact.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\css\\bootstrap.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\web\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\css\\contact.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\css\\contact.css",
       "PackagePath": "staticwebassets\\web\\css\\contact.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\css\\fontawesome-all.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\css\\fontawesome-all.css",
       "PackagePath": "staticwebassets\\web\\css\\fontawesome-all.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\css\\jquery.desoslide.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\css\\jquery.desoslide.css",
       "PackagePath": "staticwebassets\\web\\css\\jquery.desoslide.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\css\\single.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\css\\single.css",
       "PackagePath": "staticwebassets\\web\\css\\single.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\css\\style.css",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\css\\style.css",
       "PackagePath": "staticwebassets\\web\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\09427e88-c810-47fa-9f04-e7582ddf1b76.jpeg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\09427e88-c810-47fa-9f04-e7582ddf1b76.jpeg",
       "PackagePath": "staticwebassets\\web\\images\\09427e88-c810-47fa-9f04-e7582ddf1b76.jpeg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\1.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\1.jpg",
       "PackagePath": "staticwebassets\\web\\images\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\2.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\2.jpg",
       "PackagePath": "staticwebassets\\web\\images\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\26702941-45b0-43dc-8911-10bc3ffaed7e.jpeg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\26702941-45b0-43dc-8911-10bc3ffaed7e.jpeg",
       "PackagePath": "staticwebassets\\web\\images\\26702941-45b0-43dc-8911-10bc3ffaed7e.jpeg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\3.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\3.jpg",
       "PackagePath": "staticwebassets\\web\\images\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\35a88fc1-0e8d-4bbb-8bcb-96cfc14624f2.jpeg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\35a88fc1-0e8d-4bbb-8bcb-96cfc14624f2.jpeg",
       "PackagePath": "staticwebassets\\web\\images\\35a88fc1-0e8d-4bbb-8bcb-96cfc14624f2.jpeg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\4.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\4.jpg",
       "PackagePath": "staticwebassets\\web\\images\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\5.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\5.jpg",
       "PackagePath": "staticwebassets\\web\\images\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\50d5580a-9f90-416d-88e1-576505ad1674.png",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\50d5580a-9f90-416d-88e1-576505ad1674.png",
       "PackagePath": "staticwebassets\\web\\images\\50d5580a-9f90-416d-88e1-576505ad1674.png"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\6.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\5b4a2d43-1684-46c7-9570-a92d19c42f87.jpeg",
+      "PackagePath": "staticwebassets\\web\\images\\5b4a2d43-1684-46c7-9570-a92d19c42f87.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\6.jpg",
       "PackagePath": "staticwebassets\\web\\images\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\6106277b-edc6-4396-879c-bbf2880d8895.jpeg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\6106277b-edc6-4396-879c-bbf2880d8895.jpeg",
       "PackagePath": "staticwebassets\\web\\images\\6106277b-edc6-4396-879c-bbf2880d8895.jpeg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\635bd2cd-20af-441d-a4ef-5c48dd5b4b28.jpeg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\635bd2cd-20af-441d-a4ef-5c48dd5b4b28.jpeg",
       "PackagePath": "staticwebassets\\web\\images\\635bd2cd-20af-441d-a4ef-5c48dd5b4b28.jpeg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\67ff0178-dfa8-474e-86c3-3fb1e6aaca78.jpeg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\67ff0178-dfa8-474e-86c3-3fb1e6aaca78.jpeg",
       "PackagePath": "staticwebassets\\web\\images\\67ff0178-dfa8-474e-86c3-3fb1e6aaca78.jpeg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\7.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\7.jpg",
       "PackagePath": "staticwebassets\\web\\images\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\8.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\8.jpg",
       "PackagePath": "staticwebassets\\web\\images\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\Thumbs.db",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\Thumbs.db",
       "PackagePath": "staticwebassets\\web\\images\\Thumbs.db"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\a16897c9-ba2a-4eb2-8e73-51042f716a73.jpeg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\a16897c9-ba2a-4eb2-8e73-51042f716a73.jpeg",
       "PackagePath": "staticwebassets\\web\\images\\a16897c9-ba2a-4eb2-8e73-51042f716a73.jpeg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\a262b7bb-eda8-44b8-8954-32611b339857.jpeg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\a262b7bb-eda8-44b8-8954-32611b339857.jpeg",
       "PackagePath": "staticwebassets\\web\\images\\a262b7bb-eda8-44b8-8954-32611b339857.jpeg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\a52144de-9d46-4cdf-af49-e265a577839f.jpeg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\a52144de-9d46-4cdf-af49-e265a577839f.jpeg",
       "PackagePath": "staticwebassets\\web\\images\\a52144de-9d46-4cdf-af49-e265a577839f.jpeg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\a80ce475-b497-42ab-9018-c3de9a00a192.jpeg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\a80ce475-b497-42ab-9018-c3de9a00a192.jpeg",
       "PackagePath": "staticwebassets\\web\\images\\a80ce475-b497-42ab-9018-c3de9a00a192.jpeg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\abbcbdc2-80f2-4446-91ff-f5687f514f36.jpeg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\abbcbdc2-80f2-4446-91ff-f5687f514f36.jpeg",
       "PackagePath": "staticwebassets\\web\\images\\abbcbdc2-80f2-4446-91ff-f5687f514f36.jpeg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\b1.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\b1.jpg",
       "PackagePath": "staticwebassets\\web\\images\\b1.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\b2.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\b2.jpg",
       "PackagePath": "staticwebassets\\web\\images\\b2.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\b3.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\b3.jpg",
       "PackagePath": "staticwebassets\\web\\images\\b3.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\b36be6ed-585b-44b0-94f6-cad5410996e9.jpeg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\b36be6ed-585b-44b0-94f6-cad5410996e9.jpeg",
       "PackagePath": "staticwebassets\\web\\images\\b36be6ed-585b-44b0-94f6-cad5410996e9.jpeg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\b4.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\b4.jpg",
       "PackagePath": "staticwebassets\\web\\images\\b4.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\b5.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\b5.jpg",
       "PackagePath": "staticwebassets\\web\\images\\b5.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\banner1.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\banner1.jpg",
       "PackagePath": "staticwebassets\\web\\images\\banner1.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\banner2.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\banner2.jpg",
       "PackagePath": "staticwebassets\\web\\images\\banner2.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\banner3.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\banner3.jpg",
       "PackagePath": "staticwebassets\\web\\images\\banner3.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\banner4.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\banner4.jpg",
       "PackagePath": "staticwebassets\\web\\images\\banner4.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\banner5.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\banner5.jpg",
       "PackagePath": "staticwebassets\\web\\images\\banner5.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\bc041282-2530-484a-a082-8a51ac1edbae.jpeg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\bc041282-2530-484a-a082-8a51ac1edbae.jpeg",
       "PackagePath": "staticwebassets\\web\\images\\bc041282-2530-484a-a082-8a51ac1edbae.jpeg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\c03e1a77-db49-408a-b361-44e60f3d1cf5.jpeg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\c03e1a77-db49-408a-b361-44e60f3d1cf5.jpeg",
       "PackagePath": "staticwebassets\\web\\images\\c03e1a77-db49-408a-b361-44e60f3d1cf5.jpeg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\c5acd4b6-5f76-43b3-9ed1-4d132ed86f57.jpeg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\c5acd4b6-5f76-43b3-9ed1-4d132ed86f57.jpeg",
       "PackagePath": "staticwebassets\\web\\images\\c5acd4b6-5f76-43b3-9ed1-4d132ed86f57.jpeg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\cac5cb97-69f7-4675-844a-ebb04c29df9a.jpeg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\cac5cb97-69f7-4675-844a-ebb04c29df9a.jpeg",
       "PackagePath": "staticwebassets\\web\\images\\cac5cb97-69f7-4675-844a-ebb04c29df9a.jpeg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\eb5674ef-11f0-40b1-956f-8e8c3461bf91.jpeg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\d6f5de0f-ab3d-430c-b627-b4ee4210b251.jpeg",
+      "PackagePath": "staticwebassets\\web\\images\\d6f5de0f-ab3d-430c-b627-b4ee4210b251.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\eb5674ef-11f0-40b1-956f-8e8c3461bf91.jpeg",
       "PackagePath": "staticwebassets\\web\\images\\eb5674ef-11f0-40b1-956f-8e8c3461bf91.jpeg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\f3b72273-edb6-4eee-acf3-73880a410f9c.jpeg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\f3b72273-edb6-4eee-acf3-73880a410f9c.jpeg",
       "PackagePath": "staticwebassets\\web\\images\\f3b72273-edb6-4eee-acf3-73880a410f9c.jpeg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\left.png",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\left.png",
       "PackagePath": "staticwebassets\\web\\images\\left.png"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\m1.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\m1.jpg",
       "PackagePath": "staticwebassets\\web\\images\\m1.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\m2.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\m2.jpg",
       "PackagePath": "staticwebassets\\web\\images\\m2.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\m3.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\m3.jpg",
       "PackagePath": "staticwebassets\\web\\images\\m3.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\m4.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\m4.jpg",
       "PackagePath": "staticwebassets\\web\\images\\m4.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\right.png",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\right.png",
       "PackagePath": "staticwebassets\\web\\images\\right.png"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\t1.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\t1.jpg",
       "PackagePath": "staticwebassets\\web\\images\\t1.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\t2.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\t2.jpg",
       "PackagePath": "staticwebassets\\web\\images\\t2.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\t3.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\t3.jpg",
       "PackagePath": "staticwebassets\\web\\images\\t3.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\t4.jpg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\t4.jpg",
       "PackagePath": "staticwebassets\\web\\images\\t4.jpg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\images\\top_up.png",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\top_up.png",
       "PackagePath": "staticwebassets\\web\\images\\top_up.png"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\index.html",
-      "PackagePath": "staticwebassets\\web\\index.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\js\\bootstrap.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\web\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\js\\easing.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\js\\easing.js",
       "PackagePath": "staticwebassets\\web\\js\\easing.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\js\\jquery-2.2.3.min.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\js\\jquery-2.2.3.min.js",
       "PackagePath": "staticwebassets\\web\\js\\jquery-2.2.3.min.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\js\\jquery.desoslide.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\js\\jquery.desoslide.js",
       "PackagePath": "staticwebassets\\web\\js\\jquery.desoslide.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\js\\jquery.flexisel.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\js\\jquery.flexisel.js",
       "PackagePath": "staticwebassets\\web\\js\\jquery.flexisel.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\js\\modernizr.custom.min.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\js\\modernizr.custom.min.js",
       "PackagePath": "staticwebassets\\web\\js\\modernizr.custom.min.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\js\\move-top.js",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\js\\move-top.js",
       "PackagePath": "staticwebassets\\web\\js\\move-top.js"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\login.html",
-      "PackagePath": "staticwebassets\\web\\login.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\register.html",
-      "PackagePath": "staticwebassets\\web\\register.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\single.html",
-      "PackagePath": "staticwebassets\\web\\single.html"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\w3layouts-license.txt",
-      "PackagePath": "staticwebassets\\web\\w3layouts-license.txt"
-    },
-    {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\web\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\web\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\web\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\web\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\web\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\web\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\web\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\web\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\web\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\web\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\web\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\web\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\web\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\web\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\owl\\Documents\\WebProje\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\web\\webfonts\\fa-solid-900.woff2"
     },
     {

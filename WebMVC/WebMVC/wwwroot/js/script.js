@@ -32,6 +32,18 @@ $(document).ready(function () {
             '24': 'Çıkış Yap',
             '25': 'Markette',
             '26': 'Satıcı',
+            '27': 'Tüm kategoriler',
+            '28': 'Kayıt Ol',
+            '29': 'Giriş Yap',
+            '30': 'Çıkış Yap',
+            '31': 'Hoşgeldiniz',
+            '32': 'Anasayfa',
+            '33': 'Son Postlar',
+            '34': 'Kategoriler',
+            '35': 'Bloglar',
+            '36': 'Giriş yap',
+            '37': 'Şimdi Kayıt Ol'
+
         },
 
 
@@ -63,6 +75,17 @@ $(document).ready(function () {
             '24': 'Log Out',
             '25': 'At Market',
             '26': 'Seller',
+            '27': 'All Categories',
+            '28': 'Sign In',
+            '29': 'Log In',
+            '30': 'Log Out',
+            '31': 'Welcome',
+            '32': 'Home',
+            '33': 'Recent Posts',
+            '34': 'Categories',
+            '35': 'Blog Posts',
+            '36': 'Sign In Now',
+            '37': 'Register Now'
         },
 
 
@@ -85,7 +108,7 @@ $(document).ready(function () {
 
     }
 
-    $('a,h5,p,h1,h2,span,li,button,h3,label').each(function (index, element) {
+    $('a,h5,h4,p,h1,h2,span,li,button,h3,label').each(function (index, element) {
         $(this).text(arrLang[lang][$(this).attr('key')]);
 
     });

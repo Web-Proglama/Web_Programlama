@@ -6,11 +6,10 @@
 <html lang="zxx">
 
 <head>
-	<title>Weblog a Blogging Category Bootstrap responsive WebTemplate | Login :: w3layouts</title>
+	<title>Login</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
-	<meta name="keywords" content="Weblog a Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+	<meta name="keywords" content="login" />
 
 	<script>
 		addEventListener("load", function () {
@@ -30,8 +29,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </head>
 
 <body>
-	<!--Header-->
-
+ 
 	<header>
 		<div class="top-bar_sub_w3layouts container-fluid">
 			<div class="row">
@@ -44,12 +42,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				
 					<span class="mx-lg-4 mx-md-2  mx-1">
 						<a href="/login/index">
-							<i class="fas fa-lock"></i> Sign In
-						</a>
+                            <i class="fas fa-lock"></i><span key ="29">Sign In
+                    </span>
+                        </a>
 					</span>
 					<span>
 						<a href="/register/index">
-							<i class="far fa-user"></i> Register
+							<i class="far fa-user"></i> <span key="28">Register</span>
 						</a>
 					</span>
 				</div>
@@ -96,35 +95,38 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<ul class="navbar-nav mr-auto">
 						<li class="nav-item">
 							<a class="nav-link" href="/blog/index">
-								Home
+                                <span key="32">Home</span>
 								<span class="sr-only">(current)</span>
 							</a>
 						</li>
 					
 
 					</ul>
-				
+					<div class="dropdown">
+						<button class="btn btn-secondary dropdown-toggle" type="button" id="drop_yazı" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							English
+						</button>
+						<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+							<a class="dropdown-item" id="tr" href="#">Türkçe</a>
+							<a class="dropdown-item" id="en" href="#">English</a>
+
+						</div>
+					</div>
 
 				</div>
 			</nav>
 
 		</div>
 	</header>
-	<!--//header-->
-	<!--/banner-->
-	
 
-	<!--//banner-->
-	<!--/main-->
 	<section class="main-content-w3layouts-agileits">
 		@RenderBody()
 	</section>
-	<!--//main-->
-	<!--footer-->
+
 	<footer>
 		<div class="container">
 		
-			<!-- footer -->
+	
 			<div class="footer-cpy text-center">
 				<div class="footer-social">
 					<div class="copyrighttop">
@@ -166,14 +168,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 			</div>
 
-			<!-- //footer -->
+	
 		</div>
 	</footer>
-	<!---->
-	<!-- js -->
-	<script src="~/web/js/jquery-2.2.3.min.js"></script>
-	<!-- //js -->
-	<!--/ start-smoth-scrolling -->
+
+	@*<script src="~/web/js/jquery-2.2.3.min.js"></script>*@
+	
 	<script src="~/web/js/move-top.js"></script>
 	<script src="~/web/js/easing.js"></script>
 	<script>
@@ -205,7 +205,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 	<script src="~/web/js/bootstrap.js"></script>
 
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 
+	<script src="~/js/script.js"></script>
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+	<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="~/js/site.js" asp-append-version="true"></script>
 </body>
 
 </html>

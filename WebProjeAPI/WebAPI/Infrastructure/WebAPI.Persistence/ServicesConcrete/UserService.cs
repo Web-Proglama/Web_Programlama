@@ -116,7 +116,7 @@ namespace WebAPI.Persistence.ServicesConcrete
 						  Password=u.Password,
 						  UserID=u.Id,
 						  UserName=u.UserName,
-						  
+						  ImageURL=u.ImageURL
 
 
 					   };

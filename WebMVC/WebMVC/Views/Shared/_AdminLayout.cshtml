@@ -1,4 +1,5 @@
-﻿
+﻿@using System.Security.Claims;
+
 @{
     Layout = null;
 }
@@ -79,7 +80,7 @@
 						<li class="dropdown profile_details_drop">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
 								<div class="profile_img">
-									<span class="prfil-img"><img src="~/Admin/images/admin.jpg" alt=""> </span>
+									<span class="prfil-img"><img style="width:60px;height:40px;" src="@(((ClaimsIdentity)User.Identity).FindFirst(ClaimTypes.UserData)!.Value)" alt=""> </span>
 								</div>
 							</a>
 							<ul class="dropdown-menu drp-mnu">
@@ -91,10 +92,19 @@
 					</ul>
 				</li>
 
-				<li class="second full-screen">
-					<section class="full-top">
-						<button id="toggle"><i class="fa fa-arrows-alt" aria-hidden="true"></i></button>
-					</section>
+				<li class="second">
+					
+						<div class="dropdown">
+							<button class="btn btn-secondary dropdown-toggle" type="button" id="drop_yazı" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								English
+							</button>
+							<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+								<a class="dropdown-item" style="color:black;" id="tr" href="#">Türkçe</a>
+								<a class="dropdown-item" style="color:black;" id="en" href="#">English</a>
+
+							</div>
+						</div>
+
 				</li>
 
 			</ul>
@@ -118,7 +128,7 @@
 	</div>
 
 
-	<script type="text/javascript" src="~/Admin/js/jquery-2.1.4.min.js"></script>
+	@*<script type="text/javascript" src="~/Admin/js/jquery-2.1.4.min.js"></script>*@
 
 	<!-- /amcharts -->
 	<script src="~/Admin/js/amcharts.js"></script>
@@ -223,6 +233,16 @@
 
 	<script type="text/javascript" src="~/Admin/js/bootstrap-3.1.1.min.js"></script>
 
+	<script src="~/web/js/bootstrap.js"></script>
+
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+	<script src="~/js/script.js"></script>
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+	<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="~/js/site.js" asp-append-version="true"></script>
 
 </body>
 </html>

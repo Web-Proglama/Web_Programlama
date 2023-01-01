@@ -709,6 +709,10 @@
       "PackagePath": "staticwebassets\\web\\images\\left.png"
     },
     {
+      "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\logo.png",
+      "PackagePath": "staticwebassets\\web\\images\\logo.png"
+    },
+    {
       "Id": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\m1.jpg",
       "PackagePath": "staticwebassets\\web\\images\\m1.jpg"
     },

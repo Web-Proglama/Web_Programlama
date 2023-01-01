@@ -14,5 +14,6 @@ namespace WebAPI.Application.ViewModels
 		public string LastName { get; set; }
 		public string Password { get; set; }
 		public string  RoleName { get; set; }
+		public string ? ImageURL { get; set; }
 	}
 }

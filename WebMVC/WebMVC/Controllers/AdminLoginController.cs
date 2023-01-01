@@ -21,7 +21,7 @@ namespace WebMVC.Controllers
 		[Route("Admin")]
 		[HttpPost]
 		public async Task<IActionResult> Index(LoginUserViewModel user)
-		{
+			{
 			if (!ModelState.IsValid)
 				return View(user);
 			var httpClient = new HttpClient();
@@ -39,11 +39,13 @@ namespace WebMVC.Controllers
 					List<Claim> claims = new List<Claim>()
 					{
 						new Claim(ClaimTypes.Name,values.UserName),
-						new Claim(ClaimTypes.Role,values.RoleName),
-						new Claim(ClaimTypes.NameIdentifier,values.UserID.ToString())
-						
+						new Claim(ClaimTypes.Role,values.RoleName!),
+						new Claim(ClaimTypes.NameIdentifier,values.UserID.ToString()),
+						new Claim("FirstName",values.FirstName),
+						new Claim(ClaimTypes.UserData,values.ImageURL)
 
 					};
+					
 					var claimIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
 					var authProperties = new AuthenticationProperties();
 					await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimIdentity), authProperties);

@@ -17,7 +17,10 @@ namespace WebMVC.Models
         public Guid UserID { get; set; }
 
         public string? RoleName { get; set; }
+        public string? ImageURL { get; set; }
+        public string? FirstName { get; set; }
+        public string? LastName { get; set; }
 
 
-	}
+    }
 }

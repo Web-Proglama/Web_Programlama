@@ -16,21 +16,21 @@
             <form asp-action="BlogAdd" asp-controller="adminblog" method="post" enctype="multipart/form-data">
 
                 <div class="form-group">
-                    <label for="inputAddress">Title</label>
+                    <label key="40" for="inputAddress" >Title</label>
                     <input type="text" class="form-control" asp-for="BlogTitle" id="inputAddress" placeholder="title" required="bos gecilemez">
                 </div>
                 <div class="form-group">
-                    <label for="inputAddress2">Content</label>
+                    <label key="39" for="BlogContent" >Content</label>
 
                     <textarea class="form-control" asp-for="BlogContent" rows="5" cols="50" placeholder="content" required="bos gecilemez"></textarea>
                 </div>
                 <div class="form-row">
                     <div class="form-group col-md-6">
-                        <label for="inputCity">Photo</label>
+                        <label key="38" for="inputCity" >Photo</label>
                         <input type="file" asp-for="ImageURL" class="form-control" id="inputCity" required="bos gecilemez">
                     </div>
                     <div class="form-group col-md-6">
-                        <label for="inputState">Category</label>
+                        <label key="41" for="inputState">Category</label>
                         @*burasi component olsun*@
                         @await Component.InvokeAsync("AdminCategoryComponent")
 

@@ -42,8 +42,11 @@ $(document).ready(function () {
             '34': 'Kategoriler',
             '35': 'Bloglar',
             '36': 'Giriş yap',
-            '37': 'Şimdi Kayıt Ol'
-
+            '37': 'Şimdi Kayıt Ol',
+            '38': 'Fotoğraf',
+            '39': 'İçerik',
+            '40': 'Başlık',
+            '41': 'Kategori'
         },
 
 
@@ -85,7 +88,11 @@ $(document).ready(function () {
             '34': 'Categories',
             '35': 'Blog Posts',
             '36': 'Sign In Now',
-            '37': 'Register Now'
+            '37': 'Register Now',
+            '38': 'Photo',
+            '39': 'Content',
+            '40': 'Title',
+            '41': 'Category'
         },
 
 

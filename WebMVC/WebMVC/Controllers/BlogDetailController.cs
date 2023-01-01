@@ -7,7 +7,7 @@ using WebMVC.Models;
 
 namespace WebMVC.Controllers
 {
-    [Authorize(Roles ="user")]
+    [Authorize(Roles ="user,Admin")]
     public class BlogDetailController : Controller
     {
         [HttpGet]

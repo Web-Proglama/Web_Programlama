@@ -38,8 +38,8 @@ namespace WebMVC.Controllers
 					{
 						new Claim(ClaimTypes.Name,user.UserName),
 						new Claim(ClaimTypes.Role,values.RoleName),
-						new Claim(ClaimTypes.NameIdentifier,values.UserID.ToString())
-
+						new Claim(ClaimTypes.NameIdentifier,values.UserID.ToString()),
+						new Claim("FirstName",values.FirstName)
 					};
 					var claimIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
 					var authProperties = new AuthenticationProperties();

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TgoFHKKlqYqMCMWAAtVV/ya5qpX2oKiBrT28o1psAI4=",
+  "Hash": "YyaZMaSpiRb6f7paWY4hpCCWV2T/mEiBnYS+QqrckZ8=",
   "Source": "WebMVC",
   "BasePath": "_content/WebMVC",
   "Mode": "Default",
@@ -3007,6 +3007,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\web\\images\\left.png"
+    },
+    {
+      "Identity": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\logo.png",
+      "SourceId": "WebMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\",
+      "BasePath": "_content/WebMVC",
+      "RelativePath": "web/images/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web\\images\\logo.png"
     },
     {
       "Identity": "C:\\Users\\owl\\Documents\\GitHub\\Web_Programlama\\WebMVC\\WebMVC\\wwwroot\\web\\images\\m1.jpg",
